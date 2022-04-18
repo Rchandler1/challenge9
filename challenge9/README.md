@@ -19,7 +19,7 @@
 
 ![alt text](assets/images/screenshot.png)
  
-
+[video of usage](https://drive.google.com/file/d/1Gc3G3TAFRz1mCnojUcWqeatag7hiYj3z/view)
 ## Credits
 Russell Chandler
   https://github.com/Rchandler1
